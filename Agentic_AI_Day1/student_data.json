@@ -1,0 +1,49 @@
+{
+    "student": {
+        "name": "Deekshitha",
+        "department": "B.Tech Biotechnology",
+        "year": 2
+    },
+    "assignments": [
+        {
+            "id": 1,
+            "subject": "AI Fluency",
+            "task": "Day 1 Agentic AI Analysis",
+            "deadline": "2026-09-24",
+            "status": "Pending",
+            "priority": "High"
+        },
+        {
+            "id": 2,
+            "subject": "Biostatistics",
+            "task": "Regression Analysis Assignment",
+            "deadline": "2026-09-25",
+            "status": "Pending",
+            "priority": "High"
+        },
+        {
+            "id": 3,
+            "subject": "Biotechnology",
+            "task": "Literature Review",
+            "deadline": "2026-09-28",
+            "status": "Pending",
+            "priority": "Medium"
+        },
+        {
+            "id": 4,
+            "subject": "Communication Skills",
+            "task": "2-Minute AI Speech",
+            "deadline": "2026-09-30",
+            "status": "Completed",
+            "priority": "Low"
+        },
+        {
+            "id": 5,
+            "subject": "Programming",
+            "task": "Python Practice",
+            "deadline": "2026-10-02",
+            "status": "Pending",
+            "priority": "Medium"
+        }
+    ]
+}
